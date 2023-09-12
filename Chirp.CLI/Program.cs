@@ -86,7 +86,6 @@ class Program
         return (long) ts.TotalSeconds;
     }
 
-
     public static string UnixTimeToDateTime(long unixtime)
     {
         System.DateTime dtDateTime = new System.DateTime(2023, 1, 1, 0, 0, 0, 0, System.DateTimeKind.Utc);
@@ -95,5 +94,3 @@ class Program
         return dtDateTime.ToString();
     }
 }
-
-
