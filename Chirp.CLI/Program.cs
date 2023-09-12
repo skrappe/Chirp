@@ -9,7 +9,7 @@ class Program
     {
         string filename = "./data/chirp_cli_db.csv";  //excel ref.
         Console.WriteLine("\nHello, would you like to read all messages or write a message?\nPress: \n  - 1 to read, \n  - 2 to write and \n  - 3 to exit program: ");
-
+//
         while(true) 
         {
             string readOrWrite = Console.ReadLine();  
