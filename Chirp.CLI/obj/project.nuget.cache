@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Gj5ahq0dhMOmRH2/DgTy/wTTpOaYoM3AQmGj6ywU1ZLdAxnNFUojA3ChAUtqoEhWMlnDhCSeGDrO8+J0lkdJ6A==",
+  "dgSpecHash": "HlPqAdr7ADgWvCBDH4V8CcSYTR1gLL3ES5ttCtafwmQy2ho21d8OJdOdbXQIx0AdxqciWKrd1M+XqzymoDzXyg==",
   "success": true,
-  "projectFilePath": "/Users/victorlacour1/Desktop/Chirp/Chirp.CLI/Chirp.CLI.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/mortennielsen/Projects/3rdsemester/group6/Chirp/Chirp.CLI/Chirp.CLI.csproj",
+  "expectedPackageFiles": [
+    "/Users/mortennielsen/.nuget/packages/system.commandline/2.0.0-beta4.22272.1/system.commandline.2.0.0-beta4.22272.1.nupkg.sha512"
+  ],
   "logs": []
 }
